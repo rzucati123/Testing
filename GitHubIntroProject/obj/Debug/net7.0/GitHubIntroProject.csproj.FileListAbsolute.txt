@@ -1,0 +1,15 @@
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/bin/Debug/net7.0/GitHubIntroProject
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/bin/Debug/net7.0/GitHubIntroProject.deps.json
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/bin/Debug/net7.0/GitHubIntroProject.runtimeconfig.json
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/bin/Debug/net7.0/GitHubIntroProject.dll
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/bin/Debug/net7.0/GitHubIntroProject.pdb
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.csproj.AssemblyReference.cache
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.AssemblyInfoInputs.cache
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.AssemblyInfo.cs
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.csproj.CoreCompileInputs.cache
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.dll
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/refint/GitHubIntroProject.dll
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.pdb
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/GitHubIntroProject.genruntimeconfig.cache
+/Users/romezucati/Projects/GitHubIntroProject/GitHubIntroProject/obj/Debug/net7.0/ref/GitHubIntroProject.dll
